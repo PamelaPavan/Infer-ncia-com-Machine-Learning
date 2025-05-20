@@ -1,0 +1,92 @@
+2024-06-23 13:51:33,256 [INFO] Trial 180 finished with value: 0.7356305995864921 and parameters: {'min_samples_split': 96, 'min_samples_leaf': 68}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:33,502 [INFO] Trial 181 finished with value: 0.8345968297725707 and parameters: {'min_samples_split': 2, 'min_samples_leaf': 1}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:33,736 [INFO] Trial 182 finished with value: 0.8283942108890421 and parameters: {'min_samples_split': 4, 'min_samples_leaf': 3}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:33,980 [INFO] Trial 183 finished with value: 0.8355616815988973 and parameters: {'min_samples_split': 4, 'min_samples_leaf': 1}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:34,254 [INFO] Trial 184 finished with value: 0.817091660923501 and parameters: {'min_samples_split': 5, 'min_samples_leaf': 5}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:34,540 [INFO] Trial 185 finished with value: 0.8274293590627154 and parameters: {'min_samples_split': 8, 'min_samples_leaf': 3}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:34,790 [INFO] Trial 186 finished with value: 0.8355616815988973 and parameters: {'min_samples_split': 4, 'min_samples_leaf': 1}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:35,013 [INFO] Trial 187 finished with value: 0.8150241212956582 and parameters: {'min_samples_split': 6, 'min_samples_leaf': 7}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:35,274 [INFO] Trial 188 finished with value: 0.8283942108890421 and parameters: {'min_samples_split': 4, 'min_samples_leaf': 3}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:35,588 [INFO] Trial 189 finished with value: 0.817091660923501 and parameters: {'min_samples_split': 10, 'min_samples_leaf': 5}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:35,844 [INFO] Trial 190 finished with value: 0.8334941419710544 and parameters: {'min_samples_split': 7, 'min_samples_leaf': 1}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:36,091 [INFO] Trial 191 finished with value: 0.8345968297725707 and parameters: {'min_samples_split': 2, 'min_samples_leaf': 1}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:36,369 [INFO] Trial 192 finished with value: 0.8283942108890421 and parameters: {'min_samples_split': 5, 'min_samples_leaf': 3}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:36,626 [INFO] Trial 193 finished with value: 0.7840110268780152 and parameters: {'min_samples_split': 90, 'min_samples_leaf': 1}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:36,911 [INFO] Trial 194 finished with value: 0.8192970365265334 and parameters: {'min_samples_split': 4, 'min_samples_leaf': 4}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:37,096 [INFO] Trial 195 finished with value: 0.7251550654720882 and parameters: {'min_samples_split': 2, 'min_samples_leaf': 95}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:37,347 [INFO] Trial 196 finished with value: 0.8334941419710544 and parameters: {'min_samples_split': 7, 'min_samples_leaf': 1}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:37,615 [INFO] Trial 197 finished with value: 0.817091660923501 and parameters: {'min_samples_split': 4, 'min_samples_leaf': 5}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:37,897 [INFO] Trial 198 finished with value: 0.8283942108890421 and parameters: {'min_samples_split': 6, 'min_samples_leaf': 3}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:38,111 [INFO] Trial 199 finished with value: 0.8042729152308753 and parameters: {'min_samples_split': 45, 'min_samples_leaf': 7}. Best is trial 129 with value: 0.8359751895244659.
+2024-06-23 13:51:38,112 [INFO] Best hyperparameters: {'min_samples_split': 3, 'min_samples_leaf': 1}.2024-06-23 13:58:46,247 [INFO] Trial 985 finished with value: 0.4547208821502412 and parameters: {'min_impurity_decrease': 0.06594922398242235, 'ccp_alpha': 0.08521371177708378}. Best is trial 337 with value: 0.8374913852515506.
+2024-06-23 13:58:46,370 [INFO] Trial 986 finished with value: 0.5488628532046864 and parameters: {'min_impurity_decrease': 0.030088318364096554, 'ccp_alpha': 0.0005919413034548022}. Best is trial 337 with value: 0.8374913852515506.
+2024-06-23 13:58:46,669 [INFO] Trial 987 finished with value: 0.839696760854583 and parameters: {'min_impurity_decrease': 6.649142530899318e-05, 'ccp_alpha': 8.224020828904007e-05}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:46,811 [INFO] Trial 988 finished with value: 0.5175740868366644 and parameters: {'min_impurity_decrease': 0.05303200464410386, 'ccp_alpha': 0.01747108510258224}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:46,952 [INFO] Trial 989 finished with value: 0.5864920744314266 and parameters: {'min_impurity_decrease': 0.017950947174358734, 'ccp_alpha': 3.365601777867536e-05}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:47,103 [INFO] Trial 990 finished with value: 0.5175740868366644 and parameters: {'min_impurity_decrease': 0.01782217952806053, 'ccp_alpha': 0.046722819769205726}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:47,236 [INFO] Trial 991 finished with value: 0.5175740868366644 and parameters: {'min_impurity_decrease': 0.04826559787064864, 'ccp_alpha': 0.01752880489196919}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:47,482 [INFO] Trial 992 finished with value: 0.518263266712612 and parameters: {'min_impurity_decrease': 0.00014033571118082734, 'ccp_alpha': 0.035251481196428326}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:47,623 [INFO] Trial 993 finished with value: 0.5175740868366644 and parameters: {'min_impurity_decrease': 0.017913443326033663, 'ccp_alpha': 0.06206862437519106}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:47,780 [INFO] Trial 994 finished with value: 0.5488628532046864 and parameters: {'min_impurity_decrease': 0.033507495282063156, 'ccp_alpha': 0.0325833167639638}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:47,943 [INFO] Trial 995 finished with value: 0.5864920744314266 and parameters: {'min_impurity_decrease': 0.018395926222135733, 'ccp_alpha': 0.019008063947755064}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:48,023 [INFO] Trial 996 finished with value: 0.3736733287388008 and parameters: {'min_impurity_decrease': 0.6362273097569348, 'ccp_alpha': 0.0006061097629519979}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:48,150 [INFO] Trial 997 finished with value: 0.5175740868366644 and parameters: {'min_impurity_decrease': 0.047172422211243556, 'ccp_alpha': 0.04264261790981538}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:48,227 [INFO] Trial 998 finished with value: 0.3736733287388008 and parameters: {'min_impurity_decrease': 0.8907973175040768, 'ccp_alpha': 0.019579184148230018}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:48,315 [INFO] Trial 999 finished with value: 0.3736733287388008 and parameters: {'min_impurity_decrease': 0.24462810798221565, 'ccp_alpha': 0.7502001678990883}. Best is trial 987 with value: 0.839696760854583.
+2024-06-23 13:58:48,316 [INFO] Best hyperparameters: {'min_impurity_decrease': 6.649142530899318e-05, 'ccp_alpha': 8.224020828904007e-05}
+2024-06-23 13:58:48,316 [INFO] Best value: 0.839696760854583
+2024-06-23 14:11:08,500 [INFO] Trial 0 finished with value: 0.839696760854583 and parameters: {'max_depth': 457}. Best is trial 0 with value: 0.839696760854583.
+2024-06-23 14:11:08,815 [INFO] Trial 1 finished with value: 0.839696760854583 and parameters: {'max_depth': 251}. Best is trial 0 with value: 0.839696760854583.
+2024-06-23 14:11:09,465 [INFO] Trial 2 finished with value: 0.839696760854583 and parameters: {'max_depth': 98}. Best is trial 0 with value: 0.839696760854583.
+2024-06-23 14:11:09,797 [INFO] Trial 3 finished with value: 0.839696760854583 and parameters: {'max_depth': 372}. Best is trial 0 with value: 0.839696760854583.
+2024-06-23 14:11:10,101 [INFO] Trial 4 finished with value: 0.839696760854583 and parameters: {'max_depth': 206}. Best is trial 0 with value: 0.839696760854583.
+2024-06-23 14:11:10,450 [INFO] Trial 5 finished with value: 0.839696760854583 and parameters: {'max_depth': 381}. Best is trial 0 with value: 0.839696760854583.
+2024-06-23 14:11:10,502 [INFO] Trial 6 finished with value: 0.4547208821502412 and parameters: {'max_depth': 1}. Best is trial 0 with value: 0.839696760854583.
+2024-06-23 14:11:10,959 [INFO] Trial 7 finished with value: 0.839696760854583 and parameters: {'max_depth': 117}. Best is trial 0 with value: 0.839696760854583.
+2024-06-23 14:11:11,421 [INFO] Trial 8 finished with value: 0.839696760854583 and parameters: {'max_depth': 445}. Best is trial 0 with value: 0.839696760854583.
+2024-06-23 14:11:11,737 [INFO] Trial 9 finished with value: 0.839696760854583 and parameters: {'max_depth': 444}. Best is trial 0 with value: 0.839696760854583.
+2024-06-23 14:11:11,737 [INFO] Best hyperparameters:  {'max_depth': 457}
+2024-06-23 14:11:11,737 [INFO] Best value: 0.8396967608545832024-06-23 14:19:27,189 [INFO] Trial 0 finished with value: 0.8115782219159201 and parameters: {'criterion': 'gini', 'splitter': 'random'}. Best is trial 0 with value: 0.8115782219159201.
+2024-06-23 14:19:27,381 [INFO] Trial 1 finished with value: 0.8230186078566506 and parameters: {'criterion': 'entropy', 'splitter': 'random'}. Best is trial 1 with value: 0.8230186078566506.
+2024-06-23 14:19:27,632 [INFO] Trial 2 finished with value: 0.8358373535492764 and parameters: {'criterion': 'gini', 'splitter': 'best'}. Best is trial 2 with value: 0.8358373535492764.
+2024-06-23 14:19:27,873 [INFO] Trial 3 finished with value: 0.8358373535492764 and parameters: {'criterion': 'gini', 'splitter': 'best'}. Best is trial 2 with value: 0.8358373535492764.
+2024-06-23 14:19:28,128 [INFO] Trial 4 finished with value: 0.839696760854583 and parameters: {'criterion': 'log_loss', 'splitter': 'best'}. Best is trial 4 with value: 0.839696760854583.
+2024-06-23 14:19:28,293 [INFO] Trial 5 finished with value: 0.8230186078566506 and parameters: {'criterion': 'entropy', 'splitter': 'random'}. Best is trial 4 with value: 0.839696760854583.
+2024-06-23 14:19:28,537 [INFO] Trial 6 finished with value: 0.839696760854583 and parameters: {'criterion': 'entropy', 'splitter': 'best'}. Best is trial 4 with value: 0.839696760854583.
+2024-06-23 14:19:28,738 [INFO] Trial 7 finished with value: 0.8230186078566506 and parameters: {'criterion': 'entropy', 'splitter': 'random'}. Best is trial 4 with value: 0.839696760854583.
+2024-06-23 14:19:29,045 [INFO] Trial 8 finished with value: 0.839696760854583 and parameters: {'criterion': 'log_loss', 'splitter': 'best'}. Best is trial 4 with value: 0.839696760854583.
+2024-06-23 14:19:29,304 [INFO] Trial 9 finished with value: 0.839696760854583 and parameters: {'criterion': 'log_loss', 'splitter': 'best'}. Best is trial 4 with value: 0.839696760854583.
+2024-06-23 14:19:29,304 [INFO] Best hyperparameters: {'criterion': 'log_loss', 'splitter': 'best'}
+2024-06-23 14:19:29,304 [INFO] Best value: 0.839696760854583
+2024-06-23 14:27:17,798 [INFO] Trial 985 finished with value: 0.836250861474845 and parameters: {'min_samples_split': 5, 'min_samples_leaf': 1}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:18,154 [INFO] Trial 986 finished with value: 0.8208132322536182 and parameters: {'min_samples_split': 9, 'min_samples_leaf': 8}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:18,400 [INFO] Trial 987 finished with value: 0.8300482425913164 and parameters: {'min_samples_split': 17, 'min_samples_leaf': 4}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:18,649 [INFO] Trial 988 finished with value: 0.8366643694004136 and parameters: {'min_samples_split': 2, 'min_samples_leaf': 1}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:18,890 [INFO] Trial 989 finished with value: 0.8154376292212268 and parameters: {'min_samples_split': 12, 'min_samples_leaf': 11}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:19,159 [INFO] Trial 990 finished with value: 0.7561681598897312 and parameters: {'min_samples_split': 164, 'min_samples_leaf': 8}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:19,435 [INFO] Trial 991 finished with value: 0.8305995864920744 and parameters: {'min_samples_split': 7, 'min_samples_leaf': 5}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:19,689 [INFO] Trial 992 finished with value: 0.836250861474845 and parameters: {'min_samples_split': 5, 'min_samples_leaf': 1}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:20,054 [INFO] Trial 993 finished with value: 0.7203308063404549 and parameters: {'min_samples_split': 22, 'min_samples_leaf': 103}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:20,380 [INFO] Trial 994 finished with value: 0.8305995864920744 and parameters: {'min_samples_split': 10, 'min_samples_leaf': 5}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:20,632 [INFO] Trial 995 finished with value: 0.8186078566505858 and parameters: {'min_samples_split': 15, 'min_samples_leaf': 10}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:20,877 [INFO] Trial 996 finished with value: 0.8366643694004136 and parameters: {'min_samples_split': 2, 'min_samples_leaf': 1}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:21,086 [INFO] Trial 997 finished with value: 0.7175740868366643 and parameters: {'min_samples_split': 9, 'min_samples_leaf': 113}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:21,348 [INFO] Trial 998 finished with value: 0.8085458304617505 and parameters: {'min_samples_split': 6, 'min_samples_leaf': 17}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:21,629 [INFO] Trial 999 finished with value: 0.8294968986905582 and parameters: {'min_samples_split': 13, 'min_samples_leaf': 5}. Best is trial 122 with value: 0.8369400413507926.
+2024-06-23 14:27:21,630 [INFO] Best hyperparameters: {'min_samples_split': 6, 'min_samples_leaf': 1}2024-06-23 15:20:28,334 [INFO] Trial 9985 finished with value: 0.3736733287388008 and parameters: {'min_impurity_decrease': 0.5017772039120912, 'ccp_alpha': 7.749159811963656e-05}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:28,773 [INFO] Trial 9986 finished with value: 0.4547208821502412 and parameters: {'min_impurity_decrease': 0.03435279033351276, 'ccp_alpha': 0.017344523849333816}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:29,061 [INFO] Trial 9987 finished with value: 0.518263266712612 and parameters: {'min_impurity_decrease': 0.017597273950447304, 'ccp_alpha': 0.00019400212326648933}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:29,338 [INFO] Trial 9988 finished with value: 0.4547208821502412 and parameters: {'min_impurity_decrease': 0.049038302228945306, 'ccp_alpha': 4.2030313215216705e-05}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:29,831 [INFO] Trial 9989 finished with value: 0.3736733287388008 and parameters: {'min_impurity_decrease': 0.033796809301797855, 'ccp_alpha': 0.05594277298986768}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:30,714 [INFO] Trial 9990 finished with value: 0.3736733287388008 and parameters: {'min_impurity_decrease': 0.0008115804354255501, 'ccp_alpha': 0.944270471181613}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:31,139 [INFO] Trial 9991 finished with value: 0.4547208821502412 and parameters: {'min_impurity_decrease': 0.00022277575669664264, 'ccp_alpha': 0.03595843376206944}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:31,388 [INFO] Trial 9992 finished with value: 0.3736733287388008 and parameters: {'min_impurity_decrease': 0.07672190468436582, 'ccp_alpha': 0.03291500187322647}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:31,666 [INFO] Trial 9993 finished with value: 0.3736733287388008 and parameters: {'min_impurity_decrease': 0.018345234876016442, 'ccp_alpha': 0.07446489916363018}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:32,073 [INFO] Trial 9994 finished with value: 0.7385251550654721 and parameters: {'min_impurity_decrease': 0.0006958418302985721, 'ccp_alpha': 0.00031136616113942156}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:32,633 [INFO] Trial 9995 finished with value: 0.5175740868366644 and parameters: {'min_impurity_decrease': 0.00021412962684638136, 'ccp_alpha': 0.01841104742283639}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:32,901 [INFO] Trial 9996 finished with value: 0.3736733287388008 and parameters: {'min_impurity_decrease': 0.03419226906291976, 'ccp_alpha': 0.5877338409120947}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:33,208 [INFO] Trial 9997 finished with value: 0.3736733287388008 and parameters: {'min_impurity_decrease': 0.053970392221377915, 'ccp_alpha': 0.04793027747558405}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:33,575 [INFO] Trial 9998 finished with value: 0.4547208821502412 and parameters: {'min_impurity_decrease': 0.00017815902063657491, 'ccp_alpha': 0.03102172769384197}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:33,874 [INFO] Trial 9999 finished with value: 0.5175740868366644 and parameters: {'min_impurity_decrease': 0.01895250477365227, 'ccp_alpha': 0.000476660516283493}. Best is trial 966 with value: 0.8381805651274983.
+2024-06-23 15:20:33,875 [INFO] Best hyperparameters: {'min_impurity_decrease': 2.8594812578230564e-05, 'ccp_alpha': 5.395001099118109e-05}
+2024-06-23 15:20:33,875 [INFO] Best value: 0.8381805651274983

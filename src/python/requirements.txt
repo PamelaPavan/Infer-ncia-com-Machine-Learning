@@ -1,0 +1,17 @@
+ipykernel
+boto3
+sagemaker
+python-dotenv
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+xgboost
+pymysql
+optuna
+optuna-integration
+tensorflow
+imblearn
+sqlalchemy
