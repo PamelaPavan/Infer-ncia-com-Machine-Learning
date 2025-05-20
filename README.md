@@ -195,14 +195,5 @@ Ajustar os hiperparâmetros para otimizar a performance exigiu um esforço signi
 
 ## 👥 Autores
 
-**Davi Hermógenes**
-- GitHub: https://github.com/DaviSiq
-
 **Pâmela Aliny Cleto Pavan**
 - GitHub: https://github.com/PamelaPavan
-
-**Pedro Eduardo Garcia**
-- GitHub: https://github.com/PedroEduardoGarcia
-
-**Samuel Vanoni**
-- Github: https://github.com/SamuVanoni
